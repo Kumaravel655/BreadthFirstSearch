@@ -13,12 +13,18 @@ Identify a location in the google map:
 
 ### STEP 2:
 Select a specific number of nodes with distance
+### STEP 3:
+Import the required packages and create some methods to define and understand breadthfirstsearch.
 
-### STEP -> Write your own steps:
+### STEP 4:
+Include the nodes(locations) and values(distance) in dictionary as keys and values.
+
+### STEP 5:
+Pass the required location it will return the distance and destination.
+
 
 
 ## ROUTE MAP
-#### Include your own map
 #### map
 ![map](https://user-images.githubusercontent.com/75235334/166132323-2d08beba-85dc-4312-9d42-53511d570eec.jpg)
 
@@ -175,9 +181,10 @@ path_states(goal_state_path)
 
 
 ## OUTPUT:
+![Screenshot (81)](https://user-images.githubusercontent.com/75235334/166135408-145545a4-d895-4b92-9833-6f142e8498a3.png)
 
 
 ## SOLUTION JUSTIFICATION:
-
+The Route solutions are found by Breadth First Search algorithm(following FIFO and routes travelling from left to right).
 ## RESULT:
-
+Thus,an algorithm developed to find the route from the source to the destination point using breadth-first search.
