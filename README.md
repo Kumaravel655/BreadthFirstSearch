@@ -26,7 +26,9 @@ Pass the required location it will return the distance and destination.
 
 ## ROUTE MAP
 #### map
-![map](https://user-images.githubusercontent.com/75235334/166132323-2d08beba-85dc-4312-9d42-53511d570eec.jpg)
+
+![map](https://user-images.githubusercontent.com/75235334/166135743-5af921a2-5724-484f-a0ad-4bf02de318ee.jpg)
+
 
 
 ## PROGRAM
