@@ -20,7 +20,7 @@ Select a specific number of nodes with distance
 ## ROUTE MAP
 #### Include your own map
 #### Example map
-![ alt text for screen readers](./images/map1.jpg "Map around my house")
+![map](https://user-images.githubusercontent.com/75235334/166132276-02849beb-b69d-44a3-bf8b-921cab6f3ad5.jpg)
 
 ## PROGRAM
 Include your code here
