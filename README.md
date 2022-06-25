@@ -1,4 +1,7 @@
-# Breadth First Search
+## EX NO:02
+## DATE:28.04.22
+# <p align="center"> Breadth First Search
+   
 ## AIM
 
 To develop an algorithm to find the route from the source to the destination point using breadth-first search.
@@ -22,10 +25,12 @@ Include the nodes(locations) and values(distance) in dictionary as keys and valu
 ### STEP 5:
 Pass the required location it will return the distance and destination.
 
-
-
+<br>
+<br>
+<br>
+   
 ## ROUTE MAP
-#### map
+### map
 
 ![map](https://user-images.githubusercontent.com/75235334/166135743-5af921a2-5724-484f-a0ad-4bf02de318ee.jpg)
 
@@ -184,7 +189,16 @@ goal_state_path=breadth_first_search(r2)
 path_states(goal_state_path) 
 
 ```
-
+<br>
+<br>
+<br>
+   
+   <br>
+<br>
+<br>
+   <br>
+<br>
+<br>
 
 ## OUTPUT:
 ![Screenshot (81)](https://user-images.githubusercontent.com/75235334/166135408-145545a4-d895-4b92-9833-6f142e8498a3.png)
